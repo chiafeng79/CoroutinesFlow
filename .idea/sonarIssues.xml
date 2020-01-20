@@ -88,7 +88,17 @@
             <set />
           </value>
         </entry>
-        <entry key="$USER_HOME$/Projects/newsApi/news.json">
+        <entry key="$PROJECT_DIR$/../preparation/AndroidCoroutinesFlow/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../preparation/AndroidCoroutinesFlow/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../newsApi/news.json">
           <value>
             <set />
           </value>
